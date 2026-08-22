@@ -1,0 +1,10 @@
+Ex 1: Installation of Windows Operating System
+(Practical install exercise - no code. Verification commands used:)
+
+winver
+systeminfo
+hostname
+diskpart
+  list disk
+slmgr /xpr
+ipconfig
